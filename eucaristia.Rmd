@@ -1,0 +1,91 @@
+---
+title: "Eucaristia"
+output: html_document
+date: " "
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+</br></br>
+
+### **Celebración**
+
+1. Monición inicial :
+
+2. Canto de entrada :
+
+3. Acto penitencial
+
+4. Gloria a Dios
+
+5. Oración
+
+</br>
+
+**LITURGIA DE LA PALABRA**
+
+6. Monición primera lectura
+7. Primera lectura
+
+8. Salmo responsorial
+
+9. Monición segunda lectura
+10. Segunda lectura
+
+11. Monición al evangelio
+12. Aleluya - antifona evangelio
+13. Evangelio
+
+14. Ecos
+
+15. Homilia
+
+16. Proclamación de la fé
+
+17. Oraciones universales
+  * Te pedimos Señor por la **IGLESIA** ... .... para que ... ...
+  * Te pedimos Señor por los **GOBERNANTES** ... ... para que ... ...
+  * Te pedimos Señor por los **QUE SUFREN** ... ...  para que ... ...
+  * Te pedimos Señor por las **COMUNIDADES** ... ... para que ... ...
+
+
+18. Saludo de la paz
+
+19. Se sirve la mesa : Corporal - pan, vino, calis
+
+</br>
+
+**LITURGIA DE LA EUCARISTIA**
+
+20.  Anáfora - cantada 
+  
+  * Santo
+  * Amén
+  
+21. Padre nuestro
+22. Fracción del pan - datos de cuantos 
+23. Canto
+24. Comunión con las dos especies
+  * Pan  - canto
+  * Vino - canto
+
+25. Oración final
+26. Canto final
+27. Avisos responsable
+
+</br>
+
+**Nota**: 
+
+* Al pasar al atril se hace la venia al sacerdote, de regreso no se hace venia
+* Se toma el vino por un angulo del calis
+* Al finalizar cada una de las oración universal no se dice te lo pedimos Señor, lo hace el salmista
+
+
+
+
+
+
+

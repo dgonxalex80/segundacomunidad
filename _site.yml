@@ -1,0 +1,24 @@
+name: "camino"
+output_dir: "docs"
+navbar:
+  title: "Parroquia San Gabriel Arcangel"
+  left:
+    - text: "Home"
+      href: index.html
+      menu:
+    - text: "Celebraciones"
+      menu:    
+        - text: "Palabra"
+          href: palabra.html
+        - text: "-----------------"
+        - text: "Eucaristía"
+          href: eucaristia.html
+        - text: "-----------------"
+        - text: "Convivencia"
+          href: convivencia.html         
+    - text: "Clasificación libros"
+      href: clasificacion.html
+    
+      
+      
+      

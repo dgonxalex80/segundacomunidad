@@ -1,0 +1,66 @@
+---
+title: "Palabra"
+author: " "
+date: " "
+output: 
+html_document:
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Celebración**
+
+</br>
+
+1. Monición ambiental
+2. Canto de entrada
+3. Oración responsable
+4. Invocación al espiritu santo
+
+</br>
+
+5. Monición primera lectura
+6. Primera lectura
+7. Canto respuesta a la primera lectura
+
+</br>
+
+8. Monición segunda lectura
+9. Segunda lectura
+10. Canto respuesta a la segunda lectura
+
+</br>
+
+11. Monición tercera lectura
+12. Tercera lectura
+13. Canto respuesta a la tercera lectura
+
+</br>
+
+14. Monición al evangelio 
+15. Evangelio - proclama responsable
+
+</br>
+
+16. Ecos de la palabra
+
+</br>
+
+17. Oraciones - empieza con la oración por los hermanos en lista en la biblia de Jerusalén que no asistieron
+18. Padre nuestro
+19. Saludo de paz
+20. Canto final
+21. Bendición final
+
+</br>
+
+22. Avisos por parte del responsable
+
+
+Nota : 
+
+* La palabra se lee de la Biblia de Jerusalen grande
+

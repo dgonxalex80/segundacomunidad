@@ -1,0 +1,51 @@
+---
+title: "Convivencia"
+author: " "
+date: " "
+output: 
+html_document:
+css: _style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Monición ambiental
+2. Invitatorio : 
+  * Señor abre mis labios ...
+  * Y mi boca proclamará tu alabanza ...
+3. Salmo 94 - Si hoy escuchais su voz (141) 
+4. Oración responsable 
+5. Salmodia
+  * Antifona 1 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 1
+  * Antifona 2 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 2 
+  * Antifona 3 / Salmo  / Gloria al Padre, al Hijo y al Espíritu santo .../ Antifona 3
+
+Nota : 
+* En caso de no ser un salmo no se dice el Gloria  
+* Si el salmo no es un canto, se proclama
+
+6. Lectura kerigmatica
+7. 30 minutos escrutacio - escrutar : leer - escrutar - reflexionar
+8. Antifona - Cantico evangélico Benedictus (47) - Gloria al Padre, al Hijo y al Espíritu santo- Antifona de acuerdo al año litúrgico 
+9. Oraciones
+10. Padre nuestro
+11. Saludo de paz
+12. Bendición final
+13. Almuerzo - compartir 
+  * Todos empezamos juntos - canto de oración del almuerzo
+14. Giros de experiencia
+  * Cómo te ha ayudado la palabra en este tiempo?
+  * Tienes algo sobre un hermano de comunidad? - pedir perdón - abrazo
+15. Grupos de preparación -
+16. Colecta de gastos y signos - bolsa - contar - informar a la comunidad
+17. Informe de gastos
+18. Oraciones
+19. Padre nuestro
+20. Saludo de paz
+21. Canto Magnificat (101)
+22. Bendición final
+
+  
+  

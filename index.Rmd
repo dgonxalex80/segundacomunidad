@@ -1,0 +1,45 @@
+---
+title: "**Camino Neocatecumenal**"
+author: " "
+date: " "
+output: 
+  html_document:
+    css: _style.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+</br></br>
+
+## Segunda comunidad San Gabriel Arcangel
+
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/maxresdefault-1.jpg")
+```
+
+</br></br>
+
+
+[![](img/resucito.png){width=10%}](https://neocatechumenaleiter.org/cantoral-resucito/)
+
+</br>
+
+
+### <a href="https://neocatechumenaleiter.org/" target="_blank"><strong>Sitio oficial Camino Neocatecumenal</strong></a>
+
+</br>
+
+### <a href="https://gcatholic.org/calendar/2024/CO-es.htm" target="_blank"><strong>Ordo Católico</strong></a>
+
+</br>
+
+### <a href="https://liturgiadelashoras.github.io/" target="_blank"><strong>Liturgia de las horas</strong></a> 
+
+
+

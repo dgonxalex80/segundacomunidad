@@ -1,0 +1,19 @@
+---
+title: "**Clasificación Libros Biblia**"
+author: " "
+date: " "
+output: 
+  html_document:
+    css: _style.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+</br>
+
+```{r, echo=FALSE, out.width="100%", fig.align = "center"}
+knitr::include_graphics("img/libros_biblia.png")
+```
